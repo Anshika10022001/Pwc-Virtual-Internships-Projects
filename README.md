@@ -121,3 +121,53 @@ and number of tickets opened in the categories administrative and technical
 - Personalized Retention Campaigns: The dashboard can enable businesses to create personalized retention campaigns based on customer insights. By analyzing customer preferences, transaction history, and engagement patterns, businesses can design targeted offers, loyalty programs, or customer-specific interventions to improve retention rates.
 
 - Executive Reporting and Decision Making: The dashboard serves as a reporting tool to present key churn and retention metrics to executives and stakeholders. It enables data-driven decision making, facilitates strategic discussions, and helps align business objectives with customer retention goals.
+
+
+# Task 2 - DIVERSITY AND INCLUSION
+## Project Description
+Power BI Dashboards which analysis Diversity, Inclusion and Gender Balance and organized it into a visually appealing dashboard layout.
+
+## Outline of Problem
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
+Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+
+Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+- no of men
+- no of women
+- no of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
+
+
+## Analysis Framework
+- Downloaded dataset of PwC internship from Forage website.
+- Data rectification and assessment: The data was rectified and assessed in Power BI(Power Query) to ensure its accuracy and consistency. This involved removing duplicates, columns rectification, removing noise values, fixing errors, and verifying the information against other sources.
+- Dashboard creation: The final output of the project was a dashboard that presented the data in an easily digestible format. The dashboard provided insights on the diversity and inclusion.
+
+![AAAAATask4](https://github.com/Anshika10022001/Pwc-Virtual-Internships-Projects/assets/128470731/3ed20763-bc89-437e-bad9-c4b1699d11ba)
+
+## Tech Stack
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+     Data Cleaning, Power Query, Dashboarding, Visualizations
+    </td>
+  </tr>
+</table>
+
+
